@@ -1,0 +1,13 @@
+.DS_Store
+Thumbs.db
+*.log
+*.tmp
+*.env
+node_modules/
+.vscode/
+*.pyc
+__pycache__/
+.idea/
+
+# Ignore large Word docs if desired (uncomment to enable)
+# *.docx
