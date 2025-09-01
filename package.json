@@ -1,0 +1,25 @@
+{
+  "name": "artikel-hj-teknik-penulsian",
+  "version": "1.0.0",
+  "description": "Repo ini berisi materi dan template terkait teknik penulisan artikel.",
+  "main": "convert-docx-to-md.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ivankazzzz/teknikpenulisan.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/ivankazzzz/teknikpenulisan/issues"
+  },
+  "homepage": "https://github.com/ivankazzzz/teknikpenulisan#readme",
+  "dependencies": {
+    "mammoth": "^1.10.0",
+    "turndown": "^7.2.1"
+  }
+}
